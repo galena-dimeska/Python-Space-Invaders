@@ -1,6 +1,6 @@
 # Python - Space Invaders
 
-This project is a recreation of the classic game Space Invaders using Python’s PyGame module and object-oriented programming. The music, as well as the sprite images for the aliens and spaceship are taken from (https://www.youtube.com/@programmingwithnick), while the buttons and main menu screen were done in Photoshop.
+This project is a recreation of the classic game Space Invaders using Python’s PyGame module and object-oriented programming. 
 
 The game includes a main menu, where the player can choose to start the game or exit. 
 
@@ -14,7 +14,7 @@ The player has a total of three lives and the game ends when the spaceship has b
 
 ![game over](https://github.com/galena-dimeska/Python-Space-Invaders/assets/125221651/6a7760be-ed5f-45e9-af52-757f0e302c9b)
 
-
+The music, as well as the sprite images for the aliens and spaceship are taken from (https://www.youtube.com/@programmingwithnick), while the buttons and main menu screen were done in Photoshop.
 
 
 
